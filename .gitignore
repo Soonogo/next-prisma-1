@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+postgres
+.env
 
 # next.js
 /.next/
